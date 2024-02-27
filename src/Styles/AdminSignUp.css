@@ -1,0 +1,44 @@
+.AdminSignUp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:blueviolet;
+    height: 100vh;
+    font-family: cursive;
+}
+.AdminSignUp h1{
+    color: blueviolet;
+}
+.AdminSignUp form{
+    background-color: azure;
+    text-align: center;
+    padding: 40px;
+    border-radius:20px;
+    box-shadow:  0px 0px 20px rgb(255, 28, 28);
+}
+.AdminSignUp input{
+    background: none;
+    height: 25px;
+    outline: none;
+    font-size: 20px;
+    width: 200px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 10px auto;
+    color: rgba(0, 0, 0, 0.527);
+   }
+
+.AdminSignUp button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    color: white;
+    margin-top: 40px;
+    background:linear-gradient(120deg,rgba(255, 0, 238, 0.714), rgba(242, 255, 4, 0.94));
+    cursor: pointer;
+}
+
+.AdminSignUp input::placeholder{
+    color: rgba(0, 0, 255, 0.484);
+}

@@ -1,0 +1,297 @@
+{
+  "AdminSignup": [
+    {
+      "id": "72f7",
+      "name": "aadarsh",
+      "email": "Aadarsh@gmail.com",
+      "phone": "963258741",
+      "password": "1234567890",
+      "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9pK1Gk6SsANqPGtX2iAnFAmv5oSwNofP7BOH56CBoVCWF-t8lK4HfSyVnLwcOfEFpuo&usqp=CAU"
+    },
+    {
+      "id": "e643",
+      "name": "aa",
+      "email": "a@h.com",
+      "phone": "9794",
+      "password": "1234",
+      "profile": "hgcj"
+    }
+  ],
+  "Product": [
+    {
+      "id": "8140",
+      "category": "",
+      "restname": "meghana",
+      "dishname": "paneer tikka",
+      "price": "100",
+      "quantity": "2",
+      "description": "spicy paneer barbequed.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uuupytexfg5biztkdmio",
+      "rating": "5"
+    },
+    {
+      "id": "1a2e",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Crispy Peking Baby Corn",
+      "price": "159",
+      "quantity": "1",
+      "description": "Crispy fried babycorn strips stir fried in a chef special tangy & spicy sauce.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b7fe661184785b6d507124ec92913e3",
+      "rating": "4.2"
+    },
+    {
+      "id": "673a",
+      "category": "",
+      "restname": "Beijing Bites",
+      "dishname": "Taipei Chicken",
+      "price": "349",
+      "quantity": "1",
+      "description": "Crispy fried chicken tossed in a sweet, spicy & tangy sauce.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccf471b26f2b0a851d710a8a7c9365f4",
+      "rating": "4.5"
+    },
+    {
+      "id": "48fd",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Butter Croissant",
+      "price": "200",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ibopjotvtdd9urynmpio",
+      "rating": "4.0"
+    },
+    {
+      "id": "ee60",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Cinnamon Roll",
+      "price": "220",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qpwwvowznonmafzckzhl",
+      "rating": "4.0"
+    },
+    {
+      "id": "d00e",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Americano",
+      "price": "160",
+      "quantity": "1",
+      "description": "Rich aromatic coffee brewed along with hot water.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hovrpzv7rfrhzgpsaydv",
+      "rating": "4.0"
+    },
+    {
+      "id": "bf97",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Cafe Latte",
+      "price": "200",
+      "quantity": "1",
+      "description": "Freshly brewed espresso balanced with steamed milk and a thin layer of foam.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/anamt4saylfpcunswryw",
+      "rating": "3.9"
+    },
+    {
+      "id": "b785",
+      "category": "",
+      "restname": "NOTO",
+      "dishname": "Chocolate Brownie Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Filled with chocolate-y goodness and real brownie bits, a bar so good, you won't be able to resist going back.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ed4fdead308ad0e5a3907e394f9e1288",
+      "rating": "5.0"
+    },
+    {
+      "id": "dbc1",
+      "category": "",
+      "restname": "NOTO",
+      "dishname": "Roasted Hazelnut Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Rich, nutty flavor of roasted hazelnuts combined with chocolate-y goodness, a bar so delicious.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/18449f289889f8063d459774bcd9ac83",
+      "rating": "5.0"
+    },
+    {
+      "id": "857o",
+      "category": "Beverages",
+      "restname": "ChaiCraze",
+      "dishname": "Masala Chai",
+      "price": "40",
+      "quantity": "1",
+      "description": "Traditional Indian spiced tea.",
+      "thumbnailurl": "https://forktospoon.com/wp-content/uploads/2021/09/Instant-Pot-Spiced-Milk-Tea-Masala-Chai.jpg",
+      "rating": "4.5"
+    },
+    {
+      "id": "d24e",
+      "category": "Breads",
+      "restname": "Nandhana Palace",
+      "dishname": "Butter Kulcha",
+      "price": "75",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "f33d",
+      "category": "Breads",
+      "restname": "Nandhana Palace",
+      "dishname": "Kulcha",
+      "price": "70",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "1d1d",
+      "category": "Breads",
+      "restname": "Nandhana Palace",
+      "dishname": "Butter Naan",
+      "price": "75",
+      "quantity": "1",
+      "description": "Cushiony and well cooked flatbread served with a layer of butter.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gnohbargxqcssl0l1260",
+      "rating": "4.5"
+    },
+    {
+      "id": "ffa0",
+      "category": "",
+      "restname": "Zaitoon",
+      "dishname": "Honey Chilli Potato",
+      "price": "310",
+      "quantity": "1",
+      "description": "Honey Chilli Potato Indian food.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4.2"
+    },
+    {
+      "id": "7b78",
+      "category": "",
+      "restname": "Zaitoon",
+      "dishname": "Grilled Mushroom",
+      "price": "390",
+      "quantity": "-1",
+      "description": "Grilled Mushroom Indian food.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4.2"
+    },
+    {
+      "id": "aaeb",
+      "category": "",
+      "restname": "Zaitoon",
+      "dishname": "Baby Corn Manchurian [dry]",
+      "price": "290",
+      "quantity": "10",
+      "description": "Baby Corn Manchurian [dry] is Indian food.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca9d3f3f35799c13bc70d9e50ac3175b",
+      "rating": "4.2"
+    },
+    {
+      "id": "f211",
+      "category": "",
+      "restname": "Zaitoon",
+      "dishname": "Chilli Potato [dry]",
+      "price": "280",
+      "quantity": "10",
+      "description": "Chilli Potato [dry] is Indian food.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4.2"
+    },
+    {
+      "id": "2cc7",
+      "category": "Desserts",
+      "restname": "sikori",
+      "dishname": "Gajar Ka Halwa",
+      "price": "100",
+      "quantity": "99",
+      "description": "Halwa made with desi ghee and freshly procured carrots seasoned with roasted almonds and cardamon.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/968f6a150e1bbee2f95ccf9266260b21",
+      "rating": "5"
+    },
+    {
+      "id": "79dc",
+      "category": "Breads",
+      "restname": "sikori",
+      "dishname": "Gobi Paratha",
+      "price": "149",
+      "quantity": "2",
+      "description": "Our Soft And Delicious Tawa Ka Paratha, Served With Boondi Raita, Onions & Inhouse Pickle.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/21a9bfa498f4c6c3a7d5e0b7387f4509",
+      "rating": "4"
+    },
+    {
+      "id": "e2f1",
+      "category": "Breads",
+      "restname": "sikori",
+      "dishname": "Bihari Sattu Paratha",
+      "price": "159",
+      "quantity": "2",
+      "description": "Lip-smacking and spicy Sattu ka masala stuffed Tawa Paratha, Served with Boondi Raita, Onions & Inhouse Pickle.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/leekvmhgsnxygu19jiub",
+      "rating": "4"
+    },
+    {
+      "id": "7d05",
+      "category": "Chinese",
+      "restname": "Misu",
+      "dishname": "Crispy Fried Wontons Chicken",
+      "price": "400",
+      "quantity": "1",
+      "description": "Crispy wontons that are deep-fried until golden brown, served alongside a sweet and spicy thai chilli dipping sauce.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vt2gzecjwjcidvfg2cak",
+      "rating": "4.2"
+    },
+    {
+      "id": "90ea",
+      "category": "Chinese",
+      "restname": "Misu",
+      "dishname": "Classic Hakka Noodles",
+      "price": "400",
+      "quantity": "1",
+      "description": "Wok-tossed noodles with bok choy, bell peppers, soy sauce and spring onions.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c0e523fa3761259604d325ca5f17a5db",
+      "rating": "4.3"
+    },
+    {
+      "id": "e69c",
+      "category": "Beverages",
+      "restname": "Misu",
+      "dishname": "Taro Milk Boba Tea",
+      "price": "300",
+      "quantity": "1",
+      "description": "Taro | frappe vanilla | milk | classic boba.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e3c60b1feea661c95e3bc49d2759b2f0",
+      "rating": "3.5"
+    },
+    {
+      "id": "26b7",
+      "category": "Beverages",
+      "restname": "McDonald's",
+      "dishname": "Green Apple Chiller",
+      "price": "180",
+      "quantity": "1",
+      "description": "A perfect blend of aromatic teas, infused with green apple flavour.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/54243043b1b31fa715f38e6998a63e93",
+      "rating": "3.5"
+    },
+    {
+      "id": "adce",
+      "category": "Beverages",
+      "restname": "McDonald's",
+      "dishname": "McCafe-Chocolate Frappe",
+      "price": "280",
+      "quantity": "1",
+      "description": "A refreshing sweet treat made from chocolate sauce and Oreo cookie pieces and garnished with whipped cream.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/58e19527263a4bf3bbbac4befb924120",
+      "rating": "4.0"
+    }
+  ]
+}

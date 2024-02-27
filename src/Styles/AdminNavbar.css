@@ -1,0 +1,30 @@
+.AdminNavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 90px;
+    background-color: aquamarine;
+}
+.navlinks{
+    text-decoration: none;
+    font-family: cursive;
+    margin: 0px 30px;
+    font-size: 20px;
+    color: crimson;
+}
+.logo-link{
+    text-decoration: none;
+}
+.navlinks:hover
+{
+    text-decoration: underline;
+}
+.AdminNavbar h1{
+    font-family: cursive;
+    font-style: italic;
+    color: crimson;
+    font-size: 40px;
+}
+.AdminNavbar span{
+    color: yellowgreen;
+}

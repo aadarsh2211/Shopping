@@ -1,0 +1,50 @@
+.displayproducts{
+    height: 400px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 20px 0px;
+}
+.displayproducts img{
+    height: 150px;
+    width: 297px;
+}
+.AdminViewPage{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    align-items: center;
+    justify-content: space-around;
+}
+.restaruant{
+    display: flex;    
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+}
+.restaruant b{
+    background-color: blueviolet;
+    border-radius: 10px;
+    height: 24px;
+    text-align: center;
+    width: 50px;
+    color: white;
+}
+#star{
+    height: 20px;
+}
+.displayproducts strike{
+    color: rgb(195, 20, 20);
+}
+#price{
+    color:black;
+    font-weight: bolder;
+}
+.disc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.opt{
+    cursor: pointer;
+    padding: 0px 8px;
+}
+

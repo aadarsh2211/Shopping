@@ -1,0 +1,50 @@
+.AdminLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 90vw; */
+    height: 100vh;
+    font-family: cursive;
+    background-color: blueviolet;
+}
+.AdminLogin form{
+    background-color: azure;
+    text-align: center;
+    padding: 30px;
+    border-radius:20px;
+    box-shadow:  0px 0px 20px rgb(255, 28, 28);
+}
+.AdminLogin input{
+    background: none;
+ height: 25px;
+ outline: none;
+ font-size: 20px;
+ width: 200px;
+ border: none;
+ border-bottom: 1px solid black;
+ margin: 10px auto;
+ color: rgba(0, 0, 0, 0.527);
+}
+
+.AdminLogin h1{
+    color: blueviolet;
+}
+.AdminLogin button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border:none;
+    color: white;
+    cursor: pointer;
+    background:linear-gradient(120deg,rgba(255, 0, 238, 0.714), rgba(242, 255, 4, 0.94));
+}
+.AdminLogin button:hover{
+    background: linear-gradient(-120deg, rgba(255, 0, 238, 0.714),rgba(242, 255, 4, 0.94));
+}
+.AdminLogin input::placeholder{
+    color: rgba(0, 0, 255, 0.484);
+}
+.AdminLogin form>p>a{
+    color: blueviolet   ;
+    text-decoration: underline;
+}
