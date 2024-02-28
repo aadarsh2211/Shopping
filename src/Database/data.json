@@ -19,18 +19,17 @@
   ],
   "Product": [
     {
-      "id": "8140",
       "category": "",
       "restname": "meghana",
-      "dishname": "paneer tikka",
+      "dishname": "paneer Tikka",
       "price": "100",
       "quantity": "2",
       "description": "spicy paneer barbequed.",
       "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uuupytexfg5biztkdmio",
-      "rating": "5"
+      "rating": "5",
+      "id": "8140"
     },
     {
-      "id": "1a2e",
       "category": "Chinese",
       "restname": "Beijing Bites",
       "dishname": "Crispy Peking Baby Corn",
@@ -38,7 +37,8 @@
       "quantity": "1",
       "description": "Crispy fried babycorn strips stir fried in a chef special tangy & spicy sauce.",
       "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b7fe661184785b6d507124ec92913e3",
-      "rating": "4.2"
+      "rating": "4",
+      "id": "1a2e"
     },
     {
       "id": "673a",

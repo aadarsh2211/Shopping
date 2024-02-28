@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import axios from "axios";
 import "../Styles/AddProd.css"
 const AdminAddProduct = () => {
@@ -11,7 +11,6 @@ const AdminAddProduct = () => {
     let [description, setDescription] = useState("");
     let [thumbnailurl, setThumbnailurl] = useState("");
     let [rating, setRating] = useState("");
-
     let data = { category, restname, dishname, price, quantity, description, thumbnailurl, rating };
 
     let addProduct = (e) => {

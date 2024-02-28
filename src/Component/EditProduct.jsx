@@ -33,10 +33,21 @@ const EditProduct = () => {
             })
     }, [])
 
+    let data = { category, restname, dishname, price, quantity, description, thumbnailurl, rating };
+    let editItem =(e)=>{
+        e.preventDefault();
+        axios.put(`http://localhost:2000/Product/${param.id}`,data)
+     .then((response)=>{
+        alert("Dish Updated successfully")
+     })
+     .catch((err)=>{
+        alert("Error updating Data");
+     })
+    }
     
     return ( 
         <div className="EditProduct">
-       <form>
+       <form onSubmit={editItem}> 
                 <label>
                     Categories:
                     <select required value={category} onChange={(e) => { setCategory(e.target.value) }}>

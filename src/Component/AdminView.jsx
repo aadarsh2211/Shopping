@@ -50,7 +50,9 @@ const AdminView = () => {
                                 <b>{x.rating}<StarIcon id="star" /></b>
                             </div>
                             <h6>{x.dishname}</h6>
+                            <div className="desc">
                             <p>{x.description}</p>
+                            </div>
                             <strike>₹{x.price}.00</strike>
                             <div className="disc">
                                 <span id="price">₹{x.price - x.price * 20 / 100}</span>

@@ -48,3 +48,7 @@
     padding: 0px 8px;
 }
 
+.desc{
+    height: 50px;
+    overflow-Y:scroll;
+}
